@@ -1,0 +1,43 @@
+# ===== Database dumps / exports =====
+*.sql.bak
+*.dump
+*.bak
+dump.sql
+backup*.sql
+
+# ===== Local environment / secrets =====
+.env
+.env.local
+*.cnf
+credentials.json
+
+# ===== MySQL / server runtime files =====
+*.pid
+*.sock
+*.log
+mysql-error.log
+mysql-slow.log
+
+# ===== IDE / editor files =====
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# ===== OS-generated files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== MySQL Workbench model files (keep .mwb if you want it versioned) =====
+*.mwb.bak
+
+# ===== Docker (if used to run a local MySQL instance) =====
+docker-compose.override.yml
+.docker/
+
+# ===== Miscellaneous =====
+*.tmp
+*.temp
+node_modules/
