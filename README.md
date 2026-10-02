@@ -258,12 +258,21 @@ GROUP BY b.Branch_Name;
 
 ## 👤 Author
 
-**[SAMRIDH MISHRA]** - `GROUP  `
-**[PRAFULL CHATURVEDI]** - `GROUP  `
-**[SAJID KHAN]** - `GROUP  `
-**[ASUTOSH]** - `GROUP  `
-B.Tech  — [VIT BHOPAL University]
+## 👥 TEAM
+
+| ROLE | NAME |
+|:---|:---|
+|  **GROUP LEADER** | **Samridh Mishra** |
+| **MEMBER** | Prafull Chaturvedi |
+| **MEMBER** | Sajid Khan |
+| **MEMBER** | Asutosh |
+
+
+B.Tech  — [COMPUTER SCIENCE]
+
+
 Database Management Systems Course Project
+
 
 Feel free to connect or raise an issue if you spot something to improve.
 
