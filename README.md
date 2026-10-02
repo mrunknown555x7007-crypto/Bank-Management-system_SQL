@@ -262,10 +262,10 @@ GROUP BY b.Branch_Name;
 
 | ROLE | NAME |
 |:---|:---|
-|  **GROUP LEADER** | **Samridh Mishra** |
-| **MEMBER** | Prafull Chaturvedi |
-| **MEMBER** | Sajid Khan |
-| **MEMBER** | Asutosh |
+|  **GROUP LEADER** | *Samridh Mishra* |
+| **MEMBER** | *Prafull Chaturvedi* |
+| **MEMBER** | *Sajid Khan* |
+| **MEMBER** |*Asutosh* |
 
 
 B.Tech  — [COMPUTER SCIENCE]
